@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/35217343/README.md)
-# Weather patterns and bathing water quality in South West England
+# Beyond-daily-prediction-placing-bathing-water-quality-in-atmospheric-context
 
 This analysis links weather patterns, radar rainfall and environmental conditions to intestinal enterococci exceedances at monitored bathing waters during May-September 2012-2024. The observational analyses address which conditions accompanied exceedances and whether weather patterns improved daily prediction. The storyline experiments examine how model-selected days cluster across simulated seasons.
 
