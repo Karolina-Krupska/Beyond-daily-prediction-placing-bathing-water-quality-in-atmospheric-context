@@ -1,0 +1,92 @@
+{
+  "original_zip": "Step5_final (2)(9).zip",
+  "bytes": 325986059,
+  "sha256": "d2b5b9d76b7f149a2940844925ca964d4c75d9926b93ae378732ab69e4427d24",
+  "parts": [
+    {
+      "name": "step5-001.bin",
+      "bytes": 20000000,
+      "sha256": "fe2861b2f963f4f47621aebd44dfff2280e4f74de0ee099e6094bf180d44afc4"
+    },
+    {
+      "name": "step5-002.bin",
+      "bytes": 20000000,
+      "sha256": "051a2a22497e703d9be32ffad329afcf3853e8f1ce4666dab1b1aedca0c860b9"
+    },
+    {
+      "name": "step5-003.bin",
+      "bytes": 20000000,
+      "sha256": "b41933237aa1ba2f8f5e7e26c94f05f5ee47065f9076ecf13e93c21934238626"
+    },
+    {
+      "name": "step5-004.bin",
+      "bytes": 20000000,
+      "sha256": "a967f295f4bd1dcb27412e3948e7003e2dd3b43783befdcec5803a897608927c"
+    },
+    {
+      "name": "step5-005.bin",
+      "bytes": 20000000,
+      "sha256": "9d9f5bae9350fecf051cbbc98c503fca2e7256e387b7247b694a78d06da3e6c7"
+    },
+    {
+      "name": "step5-006.bin",
+      "bytes": 20000000,
+      "sha256": "870c10bccec7fcd7c5b841daa2363a9da4fca223fe26f3ef6ff822dc23c0c8c5"
+    },
+    {
+      "name": "step5-007.bin",
+      "bytes": 20000000,
+      "sha256": "d3783d1903dab9a0bf2d984833f1edd4404bbc7097dc908be08bc9e03bf929d8"
+    },
+    {
+      "name": "step5-008.bin",
+      "bytes": 20000000,
+      "sha256": "ff7afaf74ede75ad9ad5c310569a73a5642ced60bdd9bc9696d044621eb44024"
+    },
+    {
+      "name": "step5-009.bin",
+      "bytes": 20000000,
+      "sha256": "327825989ac6a27119e06e970074347267da40b6acf4f34afd30b2d3b60536bb"
+    },
+    {
+      "name": "step5-010.bin",
+      "bytes": 20000000,
+      "sha256": "da57bc46f277c05e3a2d3bc2a1a5bd7bd6e74c5cb78ad14064c3ee771204509f"
+    },
+    {
+      "name": "step5-011.bin",
+      "bytes": 20000000,
+      "sha256": "7e18e0c80490ca35b16ceda4e7fb7e9a9a3719f17ae84a9731c22bcd8f4fb030"
+    },
+    {
+      "name": "step5-012.bin",
+      "bytes": 20000000,
+      "sha256": "2def28a18c36d3d0c320fdbddc1dcd0c13ef648d9d313974b6f0fd413bdf81f4"
+    },
+    {
+      "name": "step5-013.bin",
+      "bytes": 20000000,
+      "sha256": "a0c31b1b5dde451628bf8cfcd4d4c581a64571f1adef1c52355ec31332c08ded"
+    },
+    {
+      "name": "step5-014.bin",
+      "bytes": 20000000,
+      "sha256": "2f2e00d4b6b7375ab8f6117312a798bae757f3d0874788e6f8c96983c772341b"
+    },
+    {
+      "name": "step5-015.bin",
+      "bytes": 20000000,
+      "sha256": "ff8520f91e1c7ef1002dda9b0f23b125ab8be589e6796f3275db93390d401d94"
+    },
+    {
+      "name": "step5-016.bin",
+      "bytes": 20000000,
+      "sha256": "30455f72be5c0e3f29b66d83de629d1369359181bbedf623bc52852f9770fbc9"
+    },
+    {
+      "name": "step5-017.bin",
+      "bytes": 5986059,
+      "sha256": "b020bdf743c41811baaf3e60447f96b5dd43e3fb73661afc2f711c1ebbe422c3"
+    }
+  ]
+}
